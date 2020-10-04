@@ -1,4 +1,4 @@
-# sttm_one
+# flutter-gurbani
 
 A new Flutter project.
 
